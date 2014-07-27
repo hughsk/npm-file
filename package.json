@@ -1,0 +1,38 @@
+{
+  "name": "npm-file",
+  "version": "1.0.0",
+  "description": "Specify a path within an npm package: download and extract it, returning a local path for reading",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {},
+  "author": {
+    "name": "Hugh Kennedy",
+    "email": "hughskennedy@gmail.com",
+    "url": "http://hughsk.io/"
+  },
+  "dependencies": {
+    "npm-stats": "^0.3.0",
+    "request": "^2.39.0",
+    "resolve": "^0.7.4",
+    "semver": "^3.0.1",
+    "tar": "^0.1.20"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hughsk/npm-file.git"
+  },
+  "keywords": [
+    "npm",
+    "file",
+    "data",
+    "contents",
+    "module",
+    "package",
+    "query"
+  ],
+  "homepage": "https://github.com/hughsk/npm-file",
+  "bugs": {
+    "url": "https://github.com/hughsk/npm-file/issues"
+  }
+}
